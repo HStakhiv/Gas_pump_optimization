@@ -1,4 +1,4 @@
-# Pump optimization
+# Gas Pump optimization
 
 This Delphi 7 project was created to analyze and optimize the characteristics of pumping units of gas transmission systems.
 
